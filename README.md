@@ -1,5 +1,9 @@
 # Advance Python Topics
 
+## Iterators: 
+
+## Generators: 
+
 ## Variable and Memory References
 - Aliasing
 - Reference Counting
@@ -7,5 +11,3 @@
 - Weird Stuff
 - Mutability
 - Side Effects of Mutability
-
-
