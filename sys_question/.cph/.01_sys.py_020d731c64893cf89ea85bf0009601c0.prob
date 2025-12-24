@@ -1,0 +1,1 @@
+{"name":"Local: 01_sys","url":"/home/yasin/all_program/Advance_Python/sys_question/01_sys.py","tests":[{"id":1766410077455,"input":"2\n5\n100 99 98 97 96\n4\n2 5 7 9\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/yasin/all_program/Advance_Python/sys_question/01_sys.py","group":"local","local":true}
