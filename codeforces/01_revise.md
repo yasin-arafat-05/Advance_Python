@@ -48,3 +48,5 @@ can be done in any order
 # v) 706B
 **TLE with list comprehation try with bisect module in python**
 
+# vi) 490A
+
