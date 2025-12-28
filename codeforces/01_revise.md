@@ -49,4 +49,5 @@ can be done in any order
 **TLE with list comprehation try with bisect module in python**
 
 # vi) 490A
+# vii) 469A
 
