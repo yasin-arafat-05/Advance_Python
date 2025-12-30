@@ -108,7 +108,41 @@ final ans:
 
 <br>
 
+# x) 276A
+`ignore a case, i think that will not need but in the extreme case i need to consider that case.`
 
+<br>
+
+# xi) 472A
+**What is composite number:** The number with more than 2 factors. For even number, 4 = 1,2,4 is the first composite number. And for odd number, 1,3,5,7,9 here, 9 is the first composite number for odd, 9 = 1,3,9
+
+<br>
+
+# xii) 110A 
+
+<br>
+
+# xiii) 112A
+
+**Lexicographical order মানে হলো dictionary order, যেভাবে আমরা অভিধানে (a, b, c, … z) শব্দ সাজাই — ঠিক সেই নিয়মে string তুলনা করা।**
+
+<br>
+
+# xiv) 131A
+
+`The second line contains n space-separated integers: the i-th number is pi — the number of a friend who gave a gift to friend number i. That's means kon kon frd gift paise koto number frd theke. input: 2 means oi gift paise 2 number index e jei ase tar kas theke. A litle bit confusing. `
+
+<br>
+
+# xv) 141A
+
+`My initial through was count all the frequency of letter then just sum them up. But in this case maybe another letter is extra in total we have the same length. So, solve this ne need to match all the word frequency but it's a long process. In python, just sorted them and compare the string. `
+
+<br>
+
+# xvi) 144A
+
+<br>
 
 <br>
 <br>
