@@ -1,5 +1,15 @@
-i) A_Beautiful_Year: 271A
+<br>
+<br>
+
+# `#01: Rating: 800,900,1000,1100 Problems`
+
+<br>
+<br>
+
+# i) A_Beautiful_Year: 271A
 - set(string) => unique character
+
+<br>
 
 # ii) 318A
 - Formulazied the odd number:
@@ -14,6 +24,8 @@ i) A_Beautiful_Year: 271A
 - 3 তম even number হবেঃ 2*3 = 6 
 - 4 তম even number হবেঃ 2*4 = 8 
 
+<br>
+<br>
 
 # iii) 230B
 t=p^2, where p is prime
@@ -30,6 +42,8 @@ for i in range(2,int(MAX**0.5+1)):
         for j in range(i*i,MAX,i):
             is_prime[j] = False
 ```
+<br>
+
 # iv) 230A 
 **Need to Sort the value it don't come in my mind** <br>
 Kirito can fight the dragons in any order 
@@ -45,9 +59,63 @@ rearrange <br>
 choose sequence <br>
 can be done in any order
 
+<br>
+
 # v) 706B
 **TLE with list comprehation try with bisect module in python**
 
+<br>
+
 # vi) 490A
+
+<br>
+
 # vii) 469A
+
+<br>
+
+# viii) 492B
+
+- সব ল্যান্টার্নের radius d একই। d যত ছোট সম্ভব রেখে 0 থেকে l পর্যন্ত পুরো রাস্তা ঢাকতে হবে।
+- তাহলে যে জায়গাটায় সবচেয়ে বেশি অন্ধকার পড়ার chance, সেই জায়গাটাই ঠিক করে দিবে d কত হবে।
+- Then we need to find maximum distance between two lanters then just divide it 2 we will get the minimum distance.
+
+<br>
+
+# ix) 1352A:
+cnt = 1 
+1505%10 = 5 
+1505/10= 150
+
+150%10= 0 
+150/0=15
+
+cnt=2 
+15%10=5
+15/10=1
+
+cnt=3 
+1%10=1 
+
+arr = [5,0,5,1]
+output:
+cnt 
+5, 00, 500,1000 // zero must be ignore:
+final ans:
+5, 500,1000
+
+`something like this logic.If zero then it's round number like . see the test case from the problem. We just add the digit into an array from last to first num%10 then num/10 like this.`
+
+<br>
+
+
+
+<br>
+<br>
+
+# `#02: Rating: 12+ DP`
+
+<br>
+<br>
+
 
